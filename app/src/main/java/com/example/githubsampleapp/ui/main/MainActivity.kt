@@ -1,7 +1,11 @@
-package com.example.githubsampleapp
+package com.example.githubsampleapp.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.githubsampleapp.R
+
+// val viewModel: MainViewModel by viewModel()
+
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -51,4 +51,8 @@ dependencies {
     //ViewModel
     implementation "androidx.lifecycle:lifecycle-viewmodelktx:$lifecycle_version"
 
+    //okHttp
+    implementation "com.squareup.okhttp3:okhttp:4.9.0"
+    //retrofit
+
 }
